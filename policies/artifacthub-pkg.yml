@@ -6,8 +6,8 @@ description: A set of rego policies to monitor Kubernetes APIs deprecations
 license: MIT
 homeURL: https://github.com/swade1987/deprek8ion
 containersImages:
-  - eu.gcr.io/swade1987/deprek8ion:1.1.17
-  - quay.io/3scale/prometheus-exporter-operator:v0.2.4
+  - image: eu.gcr.io/swade1987/deprek8ion:1.1.17
+  - image: quay.io/3scale/prometheus-exporter-operator:v0.2.4
 keywords:
   - monitoring
   - kubernetes
