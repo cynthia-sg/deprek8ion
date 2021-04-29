@@ -1,4 +1,4 @@
-version: 0.1.4
+version: 0.1.5
 name: deprek8ion
 displayName: Deprek8ion
 createdAt: 2020-07-27T18:00:00Z
@@ -6,7 +6,7 @@ description: A set of rego policies to monitor Kubernetes APIs deprecations
 license: MIT
 homeURL: https://github.com/swade1987/deprek8ion
 containersImages:
-  - image: eu.gcr.io/swade1987/deprek8ion:1.1.17
+  - image: eu.gcr.io/swade1987/deprek8ion:1.1.20
   - image: quay.io/3scale/prometheus-exporter-operator:v0.2.4
 keywords:
   - monitoring
