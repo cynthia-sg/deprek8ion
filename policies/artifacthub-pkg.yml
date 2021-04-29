@@ -44,3 +44,6 @@ readme: |
 maintainers:
   - name: cs
     email: cynthiasg@icloud.com
+artifacthub.io/changes: |
+  - test 1
+  - test 2
