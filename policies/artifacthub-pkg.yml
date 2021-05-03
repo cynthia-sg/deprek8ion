@@ -1,4 +1,4 @@
-version: 0.1.8
+version: 0.1.9
 name: deprek8ion
 displayName: Deprek8ion
 createdAt: 2020-07-27T18:00:00Z
@@ -49,7 +49,6 @@ readme: |
 maintainers:
   - name: cs
     email: cynthiasg@icloud.com
-annotations:
-  changes: |
-    - test 1
-    - test 2
+changes: |
+  - test 1
+  - test 2
