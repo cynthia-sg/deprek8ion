@@ -50,5 +50,22 @@ maintainers:
   - name: cs
     email: cynthiasg@icloud.com
 changes:
-  - test 1
-  - test 2
+  - kind: added
+    description: New feature
+    links:
+      - name: Github Issue
+        link: "http://jhdhjdjd.com"
+  - kind: removed
+    description: Removed feature
+  - kind: added
+    description: Add feature
+  - kind: updated
+    description: Make ....
+  - kind: updated
+    description: Lore ipsum
+  - kind: added
+    description: Add linter
+  - kind: security
+    description: Upgrade backend dependencies
+  - kind: fixed
+    description: Some bugs fixes and other improvements
