@@ -1,4 +1,4 @@
-version: 0.1.7
+version: 0.1.8
 name: deprek8ion
 displayName: Deprek8ion
 createdAt: 2020-07-27T18:00:00Z
@@ -49,6 +49,7 @@ readme: |
 maintainers:
   - name: cs
     email: cynthiasg@icloud.com
-artifacthub.io/changes: |
-  - test 1
-  - test 2
+annotations:
+  changes: |
+    - test 1
+    - test 2
