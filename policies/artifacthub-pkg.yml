@@ -59,7 +59,7 @@ changes:
     description: Removed feature
   - kind: added
     description: Add feature
-  - kind: updated
+  - kind: deprecated
     description: Make ....
   - kind: updated
     description: Lore ipsum
