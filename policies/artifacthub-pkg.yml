@@ -61,7 +61,7 @@ changes:
     description: Add feature
   - kind: deprecated
     description: Make ....
-  - kind: updated
+  - kind: added
     description: Lore ipsum
   - kind: added
     description: Add linter
