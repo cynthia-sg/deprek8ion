@@ -1,4 +1,4 @@
-version: 0.1.10
+version: 0.1.11
 name: deprek8ion
 displayName: Deprek8ion
 createdAt: 2020-07-27T18:00:00Z
@@ -54,7 +54,7 @@ changes:
     description: New feature
     links:
       - name: Github Issue
-        link: "http://jhdhjdjd.com"
+        url: "http://jhdhjdjd.com"
   - kind: removed
     description: Removed feature
   - kind: added
