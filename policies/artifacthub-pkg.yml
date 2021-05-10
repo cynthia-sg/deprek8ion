@@ -1,4 +1,4 @@
-version: 0.1.23
+version: 0.1.24
 name: deprek8ion
 displayName: Deprek8ion
 createdAt: 2020-07-27T18:00:00Z
@@ -8,6 +8,7 @@ homeURL: https://github.com/swade1987/deprek8ion
 containersImages:
   - image: hashicorp/consul:1.10.0-beta2
   - image: renovate/renovate:25.18.0
+  - image: apache/solr-operator:v0.3.0
 keywords:
   - monitoring
   - kubernetes
