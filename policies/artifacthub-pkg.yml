@@ -1,4 +1,4 @@
-version: 0.1.37
+version: 0.1.38
 name: deprek8ion
 displayName: Deprek8ion
 createdAt: 2020-07-27T18:00:00Z
@@ -7,6 +7,7 @@ license: MIT
 homeURL: https://github.com/swade1987/deprek8ion
 containersImages:
   - image: quay.io/tinkerbell-actions/archive2disk:v1.0.0
+  - image: apache/solr-operator:v0.3.0
 keywords:
   - monitoring
   - kubernetes
