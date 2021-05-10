@@ -1,13 +1,10 @@
-version: 0.1.32
+version: 0.1.33
 name: deprek8ion
 displayName: Deprek8ion
 createdAt: 2020-07-27T18:00:00Z
 description: A set of rego policies to monitor Kubernetes APIs deprecations
 license: MIT
 homeURL: https://github.com/swade1987/deprek8ion
-containersImages:
-  - image: apache/solr-operator:v0.3.0
-  - image: renovate/renovate:25.18.0  
 keywords:
   - monitoring
   - kubernetes
