@@ -1,4 +1,4 @@
-version: 0.1.15
+version: 0.1.16
 name: deprek8ion
 displayName: Deprek8ion
 createdAt: 2020-07-27T18:00:00Z
@@ -7,10 +7,7 @@ license: MIT
 homeURL: https://github.com/swade1987/deprek8ion
 logoURL: http://127.0.0.1:8000/image/3ded6104-3b73-4d1b-9938-88d1428bc06b@2x
 containersImages:
-  - image: eu.gcr.io/swade1987/deprek8ion:1.1.20
-  - image: quay.io/3scale/prometheus-exporter-operator
-  - image: jenkins/jenkins:2.277.3
-  - image: maorfr/kube-tasks:0.2.0
+  - image: hashicorp/consul:1.10.0-beta2
 keywords:
   - monitoring
   - kubernetes
