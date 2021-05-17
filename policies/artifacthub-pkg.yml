@@ -15,11 +15,11 @@ keywords:
   - policies
   - opa
 install: |
-## Install using Helm
+  ## Install using Helm
 
-```
-  helm upgrade falco -f https://api.securityhub.dev/resources/falco-rules/cve-2019-11246/custom-rules.yaml stable/falco
-```
+  ```
+    helm upgrade falco -f https://api.securityhub.dev/resources/falco-rules/cve-2019-11246/custom-rules.yaml stable/falco
+  ```
 links:
   - name: source
     url: https://github.com/swade1987/deprek8ion/tree/master/policies
