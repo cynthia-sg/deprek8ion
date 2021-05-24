@@ -8,6 +8,7 @@ homeURL: https://github.com/swade1987/deprek8ion
 containersImages:
   - image: quay.io/tinkerbell-actions/archive2disk:v1.0.0
   - image: apache/solr-operator:v0.3.0
+  - image: cm2network/csgo:sourcemod
 keywords:
   - monitoring
   - kubernetes
