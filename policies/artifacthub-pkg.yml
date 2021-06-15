@@ -1,4 +1,4 @@
-version: 0.1.43
+version: 0.1.44
 name: deprek8ion
 displayName: Deprek8ion
 createdAt: 2020-07-27T18:00:00Z
@@ -7,6 +7,7 @@ license: MIT
 homeURL: https://github.com/swade1987/deprek8ion
 containersImages:
   - image: docker.io/bitnami/kubernetes-event-exporter:0.9.0-debian-10-r171
+  - image: grds/mysql-operator:1.0.0
 keywords:
   - monitoring
   - kubernetes
