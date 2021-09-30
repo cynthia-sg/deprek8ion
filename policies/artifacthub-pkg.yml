@@ -1,4 +1,4 @@
-version: 0.1.51
+version: 0.1.52
 name: deprek8ion
 displayName: Deprek8ion
 createdAt: 2020-07-27T18:00:00Z
@@ -15,12 +15,6 @@ keywords:
   - deprecations
   - policies
   - opa
-install: |
-  ## Install using Helm
-
-  ```
-    helm upgrade falco -f https://api.securityhub.dev/resources/falco-rules/cve-2019-11246/custom-rules.yaml stable/falco
-  ```
 links:
   - name: source
     url: https://github.com/swade1987/deprek8ion/tree/master/policies
