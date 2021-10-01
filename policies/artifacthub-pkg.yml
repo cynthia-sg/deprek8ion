@@ -1,4 +1,4 @@
-version: 0.1.52
+version: 0.1.53
 name: deprek8ion
 displayName: Deprek8ion
 createdAt: 2020-07-27T18:00:00Z
@@ -52,6 +52,8 @@ screenshots:
     url: https://camo.githubusercontent.com/ba32aa6421095e504fcb45711c64106630bec6d95f1aa695b561c2462bb4c65a/68747470733a2f2f61727469666163746875622e6769746875622e696f2f6875622f73637265656e73686f74732f73637265656e73686f74312e6a7067
   - title: Sample screenshot 2
     url: https://camo.githubusercontent.com/09b67d0228e261039d56c5579956a2acc50044cea2ed8f574d35ca2a619309d6/68747470733a2f2f61727469666163746875622e6769746875622e696f2f6875622f73637265656e73686f74732f73637265656e73686f74322e6a7067
+  - title: this is a long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long long text
+    url: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.GyeJ2pCrqXRjbDXS-zw7JwAAAA%26pid%3DApi&f=1
 changes:
   - kind: added
     description: New feature
