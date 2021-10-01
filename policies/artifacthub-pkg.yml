@@ -47,6 +47,11 @@ readme: |
 maintainers:
   - name: cs
     email: cynthiasg@gmail.com
+screenshots:
+  - title: Sample screenshot 1
+    url: https://camo.githubusercontent.com/ba32aa6421095e504fcb45711c64106630bec6d95f1aa695b561c2462bb4c65a/68747470733a2f2f61727469666163746875622e6769746875622e696f2f6875622f73637265656e73686f74732f73637265656e73686f74312e6a7067
+  - title: Sample screenshot 2
+    url: https://camo.githubusercontent.com/09b67d0228e261039d56c5579956a2acc50044cea2ed8f574d35ca2a619309d6/68747470733a2f2f61727469666163746875622e6769746875622e696f2f6875622f73637265656e73686f74732f73637265656e73686f74322e6a7067
 changes:
   - kind: added
     description: New feature
@@ -69,8 +74,3 @@ changes:
     description: Upgrade backend dependencies
   - kind: fixed
     description: Some bugs fixes and other improvements
- screenshots:
-   - title: Sample screenshot 1
-     url: https://camo.githubusercontent.com/ba32aa6421095e504fcb45711c64106630bec6d95f1aa695b561c2462bb4c65a/68747470733a2f2f61727469666163746875622e6769746875622e696f2f6875622f73637265656e73686f74732f73637265656e73686f74312e6a7067
-   - title: Sample screenshot 2
-     url: https://camo.githubusercontent.com/09b67d0228e261039d56c5579956a2acc50044cea2ed8f574d35ca2a619309d6/68747470733a2f2f61727469666163746875622e6769746875622e696f2f6875622f73637265656e73686f74732f73637265656e73686f74322e6a7067
