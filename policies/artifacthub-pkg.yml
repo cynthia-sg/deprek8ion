@@ -1,4 +1,4 @@
-version: 0.1.55
+version: 0.1.56
 name: deprek8ion
 displayName: Deprek8ion
 createdAt: 2020-07-27T18:00:00Z
@@ -58,6 +58,8 @@ screenshots:
     url: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.GyeJ2pCrqXRjbDXS-zw7JwAAAA%26pid%3DApi&f=1
   - title: test
     url: https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fclipart-library.com%2Fimages_k%2Fgrass-silhouette-vector%2Fgrass-silhouette-vector-23.png&f=1&nofb=1
+  - title: snake
+    url: http://images.clipartpanda.com/diamondback-rattlesnake-clipart-rygle_Snake_Colour_Outline_1.png
 changes:
   - kind: added
     description: New feature
