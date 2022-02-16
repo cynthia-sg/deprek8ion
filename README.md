@@ -1,6 +1,7 @@
 # Deprek8ion 🕵️‍
 
 [![CircleCI](https://circleci.com/gh/swade1987/deprek8ion.svg?style=svg)](https://circleci.com/gh/swade1987/deprek8ion)
+[![CloMonitor](https://img.shields.io/endpoint?url=https://clomonitor.io/api/projects/open-gitops/open-gitops/badge)](http://localhost:3000/projects/open-gitops/open-gitops)
 
 A set of rego policies to monitor Kubernetes APIs deprecations.
 
