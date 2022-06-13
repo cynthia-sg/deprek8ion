@@ -63,6 +63,8 @@ screenshots:
   - title: snake
     url: http://images.clipartpanda.com/diamondback-rattlesnake-clipart-rygle_Snake_Colour_Outline_1.png
 changes: |
+  "- ###8120    Update go in runner and release v1.1.1"
+  "- ###8120    Update go in **runner** and *release* `v1.1.1`"
   "- #8120    Update go in runner and release v1.1.1"
   "- #8119    Update to go v1.17.6"
   "- #8118    Remove deprecated libraries, update other libs"
