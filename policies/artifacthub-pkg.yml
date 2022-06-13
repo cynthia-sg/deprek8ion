@@ -63,6 +63,6 @@ screenshots:
   - title: snake
     url: http://images.clipartpanda.com/diamondback-rattlesnake-clipart-rygle_Snake_Colour_Outline_1.png
 changes: |
-  - "[8481](https://github.com/kubernetes/ingress-nginx/pull/8481) Fix log creation in `chroot` script"
+  - "[8481](https://github.com/kubernetes/ingress-nginx/pull/8481) Fix log creation in chroot script"
   - "[8479](https://github.com/kubernetes/ingress-nginx/pull/8479) changed nginx base img tag to img built with **alpine3.14.6**"
   - "[8478](https://github.com/kubernetes/ingress-nginx/pull/8478) update base images and protobuf gomod"
