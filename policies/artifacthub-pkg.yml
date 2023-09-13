@@ -1,4 +1,4 @@
-version: 0.1.66
+version: 0.1.67
 name: deprek8ion
 displayName: Deprek8ion
 createdAt: 2023-07-27T18:00:00Z
@@ -8,6 +8,8 @@ homeURL: https://github.com/swade1987/deprek8ion
 containersImages:
   - name: grafana
     image: docker.io/grafana/grafana:10.1.1
+  - name: fake-grafana
+    image: fakedocker.io/grafana/grafana:10.1.1
   - name: jenkins
     image: jenkins/jenkins:2.414.1-jdk11
 keywords:
