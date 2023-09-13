@@ -9,6 +9,7 @@ logoURL: https://cdn.pixabay.com/photo/2015/07/27/19/47/turtle-863336_1280.jpg
 containersImages:
   - image: docker.io/bitnami/kubernetes-event-exporter:0.9.0-debian-10-r171
   - image: grds/mysql-operator:lkdfopgk
+  - image: fakedocker.io/bitnami/kubernetes-event-exporter:0.9.0-debian-10-r171
 keywords:
   - monitoring
   - kubernetes
