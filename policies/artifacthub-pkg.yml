@@ -1,4 +1,4 @@
-version: 0.1.58
+version: 0.1.59
 name: deprek8ion
 displayName: Deprek8ion
 createdAt: 2020-07-27T18:00:00Z
@@ -64,4 +64,4 @@ screenshots:
   - title: snake
     url: http://images.clipartpanda.com/diamondback-rattlesnake-clipart-rygle_Snake_Colour_Outline_1.png
 changes: |
-  - "[8481](https://github.com/kubernetes/ingress-nginx/pull/8481) Fix log creation in chroot script"
+  - Test
